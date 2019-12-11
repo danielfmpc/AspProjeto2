@@ -1,6 +1,6 @@
 using System;
 
-namespace AspProjeto2.Models
+namespace AspProjeto2.Models.ViewModels
 {
     public class ErrorViewModel
     {

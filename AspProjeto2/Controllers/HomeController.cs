@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using AspProjeto2.Models;
+using AspProjeto2.Models.ViewModels;
 
 namespace AspProjeto2.Controllers
 {
