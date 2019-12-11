@@ -26,6 +26,7 @@ namespace AspProjeto2.Controllers
         public IActionResult Privacy()
         {
             ViewData["Email"] = "daniel@daniel.com.br";
+            ViewData["Email"] = "daniel@daniel.com.br";
             return View();
         }
 
